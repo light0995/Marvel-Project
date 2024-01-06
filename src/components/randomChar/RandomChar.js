@@ -66,6 +66,7 @@ class RandomChar extends Component {
                   Random character for today!<br/>
                   Do you want to get to know him BETTER?
                   HELLO WORLD
+                  !!!
               </p>
               <p className="randomchar__title">
                   Or choose another one
